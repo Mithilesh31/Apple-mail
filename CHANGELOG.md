@@ -120,5 +120,4 @@ to PyPI. Highlights from this line, now reaching PyPI users via 3.1.7:
 > point, not the `apple_mail_mcp/` package, so the server crashes on startup
 > with `ModuleNotFoundError`. Fixed in 3.1.7. (Reported in #42, #57.)
 
-[3.1.7]: https://github.com/patrickfreyer/apple-mail-mcp/releases/tag/v3.1.7
 [2.2.0]: https://github.com/patrickfreyer/apple-mail-mcp/releases/tag/v2.2.0
