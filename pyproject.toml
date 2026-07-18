@@ -13,7 +13,7 @@ authors = [
     { name = "Mithilesh Desale", email = "mithileshdesalee@gmail.com" },
 ]
 maintainers = [
-    { name = "Patrick Freyer" },
+    { name = "Mithilesh31" },
 ]
 keywords = [
     "mcp",
@@ -50,7 +50,7 @@ Homepage = "https://github.com/Mithilesh31/apple-mail-mcp"
 Repository = "https://github.com/Mithilesh31/apple-mail-mcp"
 Issues = "https://github.com/Mithilesh31/apple-mail-mcp/issues"
 Changelog = "https://github.com/Mithilesh31/apple-mail-mcp/blob/main/CHANGELOG.md"
-Upstream = "https://github.com/patrickfreyer/apple-mail-mcp"
+
 
 [tool.hatch.build.targets.wheel]
 packages = ["plugin/apple_mail_mcp"]
