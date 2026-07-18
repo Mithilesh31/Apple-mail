@@ -20,7 +20,6 @@
 
 An MCP server that gives AI assistants full access to Apple Mail -- read, search, compose, organize, and analyze emails via natural language. Built with [FastMCP](https://github.com/jlowin/fastmcp).
 
-> This is a fork/derivative of [patrickfreyer/apple-mail-mcp](https://github.com/patrickfreyer/apple-mail-mcp), maintained independently by [Mithilesh Desale](https://github.com/Mithilesh31). See [LICENSE](LICENSE) for attribution.
 
 ## Quick Install
 
